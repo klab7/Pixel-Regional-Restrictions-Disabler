@@ -33,7 +33,7 @@ In countries [not officially supported](https://pixel.withgoogle.com/5G/) by Goo
 
 ## Installation
 
-1. Download the zip from the [release page](https://github.com/karina-lab/Pixel-Regional-Restrictions-Disabler/releases) and flash it using Magisk, KernelSU or Apatch.
+1. Download the zip from the [release page](https://github.com/klab7/Pixel-Regional-Restrictions-Disabler/releases) and flash it using Magisk, KernelSU or Apatch.
 2. Reboot your phone.
 3. Enable VoLTE, VoWiFi, 5G, and UWB in your device settings.
 4. You may need to toggle the hotspot on once after installation for the new frequency options to appear.
@@ -44,9 +44,9 @@ In countries [not officially supported](https://pixel.withgoogle.com/5G/) by Goo
 
 - [Carrier IMS](https://github.com/ryfineZ/carrier-ims-for-pixel) for more IMS-related features.
 
-- [Always-On Fingerprint](https://github.com/karina-lab/AlwaysOnFingerprint) for fingerprint unlock with screen off on Pixels with optical scanner.
+- [Always-On Fingerprint](https://github.com/klab7/AlwaysOnFingerprint) for fingerprint unlock with screen off on Pixels with optical scanner.
 
-- [Battery Info Enabler](https://github.com/karina-lab/BatteryInfoEnabler) for unlocking battery info in settings on all Pixels.
+- [Battery Info Enabler](https://github.com/klab7/BatteryInfoEnabler) for unlocking battery info in settings on all Pixels.
 
 ## License
 
